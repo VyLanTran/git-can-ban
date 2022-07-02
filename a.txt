@@ -1,2 +1,1 @@
-Lap trinh vien A sua file a
-Sua lan 2
+This is file A
