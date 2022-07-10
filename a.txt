@@ -1,1 +1,2 @@
 Lap trinh vien A sua file A
+Commit 1 chay on dinh
